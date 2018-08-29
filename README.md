@@ -1,4 +1,4 @@
-# nginx-always-internal-server-error-conf
+# nginx-internal-server-error-conf
 
 Nginx configuration to always return "500 Internal Server Error"
 
